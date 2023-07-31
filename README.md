@@ -1,4 +1,4 @@
-## RQC6
+## RQC6 👋
 
 **`Beginner developer/coder from Finland`**
 
