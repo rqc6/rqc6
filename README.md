@@ -12,8 +12,7 @@ Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I
   </a> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
 <div style="text-align: center;">
-  <a href="https://discord.gg/hYCXkrYnRb">
-    <img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Our%20Community&color=7289DA" alt="Join Our Community Badge"/>
+  <a href="https://discord.gg/hYCXkrYnRb"> <img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Our%20Community&color=7289DA" alt="Join Our Community Badge"/>
   </a>
 </div>
 
