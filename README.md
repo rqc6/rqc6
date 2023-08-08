@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=fff&center=true&width=435&lines=rqc6)](https://git.io/typing-svg)
 
-Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I'm interested about game development. Currently, I'm crafting my own :snail: FiveM server to craft immersive experiences. Join me on my journey as I create exciting projects in gaming & software! :blush::rocket:
+Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I'm interested about game development. Currently, I'm doing my own :snail: FiveM server. Join me on my journey as I create exciting projects in gaming & software! :blush::rocket:
   
 <hr /> 
 
