@@ -12,7 +12,6 @@ Hi there! :wave: I'm a beginner coder learning Lua & JavaScript, and I love game
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats Card</title>
 </head>
 <body>
     <a href="https://github.com/rqc6">
