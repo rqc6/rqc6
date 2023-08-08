@@ -1,16 +1,9 @@
-
-## RQC6 👋
-
-**`Beginner developer/coder from Finland`**
-
-Hi there! 👋 I'm a beginner coder learning Lua & JavaScript, and I love game development. Working at the moment on my own 🐌 FiveM server to create immersive experiences. Follow my journey as I build exciting projects in gaming & software! 😊🚀
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000&center=true&width=435&lines=rqc6)](https://git.io/typing-svg)
 
 <a>
-      <img width="200" height="28" src="https://komarev.com/ghpvc/?username=rqc6&style=flat-square&color=6f03fc" alt=""/>
+      <img width="250" height="33" src="https://komarev.com/ghpvc/?username=rqc6&style=flat-square&color=6f03fc" alt=""/>
 </a>
 
 
