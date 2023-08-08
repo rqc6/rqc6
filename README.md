@@ -8,6 +8,8 @@ Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I
 <hr />
   <h3 align="center">Languages</h3>
   <img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    </a>
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
 </div>
 
