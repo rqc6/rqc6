@@ -17,7 +17,7 @@ Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I
 
 ### Discord server
 <div style="text-align: center;">
-  <a href="https://discord.gg/hYCXkrYnRb"> <img src="https://cdn.discordapp.com/attachments/1129879875461857354/1138500792685436999/rsz_1testi.png" alt="Join Our Community"/>
+  <a href="https://discord.gg/hYCXkrYnRb"> <img src="https://cdn.discordapp.com/attachments/1129879875461857354/1138501555956502577/dc.png" alt="Join Our Community"/>
   </a>
 </div>
 
