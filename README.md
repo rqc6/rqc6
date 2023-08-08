@@ -13,6 +13,7 @@ Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I
  
 
   </a>
+
  
  # Discord server
 <div style="text-align: center;">
