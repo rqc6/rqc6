@@ -2,11 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000&center=true&width=435&lines=rqc6)](https://git.io/typing-svg)
 
-<a>
-      <img width="250" height="33" src="https://komarev.com/ghpvc/?username=rqc6&style=flat-square&color=6f03fc" alt=""/>
-</a>
-
-
+Hi there! :wave: I'm a beginner coder learning Lua & JavaScript, and I love game development. Working at the moment on my own :snail: FiveM server to create immersive experiences. Follow my journey as I build exciting projects in gaming & software! :blush::rocket:
   
 <hr /> 
 
