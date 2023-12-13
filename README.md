@@ -15,8 +15,6 @@ Hey there! I'm a beginner coder and learning into Lua, JavaScript & Python, and 
 
 
 
-<hr /> 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,8 +22,10 @@ Hey there! I'm a beginner coder and learning into Lua, JavaScript & Python, and 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <hr style="border-color: #000;">
     <a href="https://github.com/rqc6">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rqc6&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=000&icon_color=fff&bg_color=121212" />
     </a>
 </body>
 </html>
+
