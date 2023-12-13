@@ -1,8 +1,6 @@
-<div align="center" style="font-size: 40px; font-weight: bold;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=fff&center=true&width=435&lines=rqc6" alt="Typing SVG">
-    </a>
-</div>
+<div align="center">
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=fff&center=true&width=435&lines=rqc6)](https://git.io/typing-svg)
 
 
 Hey there! I'm a beginner coder and learning into Lua, JavaScript & Python, and I'm interested about game development. Currently, I'm doing FiveM scripts for order. Join me on my journey as I create exciting projects in gaming & software!
