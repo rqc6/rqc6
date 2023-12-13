@@ -14,14 +14,6 @@ Hey there! :wave: I'm a beginner coder and learning into Lua & JavaScript, and I
 
   </a>
 
-
-### Discord server
-<div style="text-align: center;">
-  <a href="https://discord.gg/hYCXkrYnRb"> <img src="https://cdn.discordapp.com/attachments/1137411400197734431/1138502116982411304/dc2.png.png" alt="Join Our Community"/>
-  </a>
-</div>
-
-
 </div>
 
 
