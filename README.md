@@ -5,10 +5,10 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
 
 <b>Languages:</b>
 
-   - <img alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" /> HTML<br />
    - <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
    - <img alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua<br />
    - <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /> Python<br />
+   - <img alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" /> HTML<br />
 
 ### Tools:
    - <img alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
