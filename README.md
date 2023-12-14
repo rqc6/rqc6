@@ -1,7 +1,7 @@
-# Hello, I'm rqc, and welcome to my GitHub page! :wave: 🚀
+# Hello, I'm rqc, and welcome to my GitHub page! :wave: 
 
 <br>
-Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders. Join me on my journey as I create exciting projects in gaming and software!
+Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders 🐌. Join me on my journey as I create exciting projects in gaming and software! 🚀
 
 
 ### Languages:</b>
