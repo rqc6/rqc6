@@ -11,7 +11,7 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
 
 ### Tools:
    - <img alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
-   - <img alt="Xampp" width="26px" src="https://discord.com/channels/1184797925130379284/1184797946206765176/1184801756262174741" /> Xampp<br />
+   - <img alt="Xampp" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" /> Xampp<br />
 
 ### Contact:
    - Email: EELIZ6@Proton.me </a>
