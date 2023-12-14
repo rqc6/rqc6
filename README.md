@@ -16,3 +16,18 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
 ### Contact:
    - Email: EELIZ6@Proton.me </a>
    - Discord: <b>.rqc_</b>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <hr style="border-color: #fff;">
+    <a href="https://github.com/rqc6">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rqc6&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=121212" />
+    </a>
+</body>
+</html>
