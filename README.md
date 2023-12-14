@@ -1,8 +1,7 @@
-# Hello, I'm rqc, and welcome to my GitHub page! :wave: 
+# Hello, I'm rqc, and welcome to my GitHub page! :wave:
 
 <br>
 Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders 🐌. Join me on my journey as I create exciting projects in gaming and software! 🚀
-
 
 ### Languages:</b>
    - <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
@@ -12,11 +11,11 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
 
 ### Tools:
    - <img alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
-   
+   - <img alt="Xampp" width="26px" src="INSERT_XAMPP_LOGO_URL_HERE" /> Xampp<br />
+
 ### Contact:
    - Email: EELIZ6@Proton.me </a>
    - Discord: <b>.rqc_</b>
-
 
 <!DOCTYPE html>
 <html lang="en">
