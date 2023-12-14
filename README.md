@@ -3,6 +3,7 @@
 <br>
 Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders. Join me on my journey as I create exciting projects in gaming and software!
 
+
 <b>Languages:</b>
 
    - <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
