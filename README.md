@@ -3,14 +3,15 @@
 Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders 🐌. Join me on my journey as I create exciting projects in gaming and software! 🚀
 
 ### Languages:
-   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-   - ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
-   - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-   - ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+   - <img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
+   - <img alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua<br />
+   - <img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /> Python<br />
+   - <img alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" /> HTML<br />
 
 ### Tools:
-   - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-   - ![Xampp](https://img.shields.io/badge/-Xampp-black?style=flat-square&logo=xampp)
+   - <img alt="VSCode" width="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
+   - <img alt="Xampp" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" /> Xampp<br />
+
 
 ### Contact:
    - Email: EELIZ6@Proton.me
