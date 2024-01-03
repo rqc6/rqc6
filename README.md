@@ -30,6 +30,7 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
     </a>
 
    ![Visitor Count](https://komarev.com/ghpvc/?username=rqc6)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rqc6)
 
 </body>
 </html>
