@@ -30,7 +30,7 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
     </a>
 
    ![Visitor Count](https://komarev.com/ghpvc/?username=rqc6)
-![GitHub Metrics](https://metrics.lecoq.io/kayttajanimi)
+![GitHub Metrics](https://metrics.lecoq.io/rqc6)
 
 </body>
 </html>
