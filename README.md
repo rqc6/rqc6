@@ -28,5 +28,8 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
     <a href="https://github.com/rqc6">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rqc6&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=121212" />
     </a>
+
+   ![Visitor Count](https://komarev.com/ghpvc/?username=rqc6)
+
 </body>
 </html>
