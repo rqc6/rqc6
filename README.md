@@ -4,7 +4,7 @@
 
 Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. I'm particularly interested in game development and currently working on FiveM scripts for orders 🐌. Join me on my journey as I create exciting projects in gaming and software! 🚀
 
-**---**
+---
 
 ### Languages:
    - <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
@@ -20,7 +20,7 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
    - Email: EELIZ6@Proton.me
    - Discord: **.rqc_**
 
-**---**
+---
 
 ![rqc6's GitHub stats](https://github-readme-stats.vercel.app/api?username=rqc6&show_icons=true&theme=tokyonight)
 
