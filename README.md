@@ -18,7 +18,7 @@ Hey there! I'm a beginner coder and learning Lua, HTML, JavaScript, and Python. 
 
 ### Contact:
    - Email: EELIZ6@Proton.me
-   - Discord: **.rqc_**
+   - Discord: **.rqc_** (dm)
 
 ---
 
